@@ -2,13 +2,14 @@ import turtle
 t = turtle.Turtle()
 
 screen = turtle.Screen()
-# Balls
 
+# Balls
 t.circle(50)
 t.penup()
 t.setpos(100, 0)
 t.pendown()
 t.circle(50)
+
 t.penup()
 t.setpos(0, 100)
 t.pendown()
