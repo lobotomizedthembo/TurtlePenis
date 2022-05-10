@@ -10,6 +10,7 @@ t.setpos(100, 0)
 t.pendown()
 t.circle(50)
 
+# Rest of Penis
 t.penup()
 t.setpos(0, 100)
 t.pendown()
